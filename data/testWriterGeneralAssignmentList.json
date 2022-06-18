@@ -1,0 +1,23 @@
+{"assignments": [
+    {
+        "name": "Homework 6",
+        "course": "PHIL 220",
+        "completed": false,
+        "deadline": "November 2",
+        "platform": "Crowdmark"
+    },
+    {
+        "name": "Lab 6",
+        "course": "CPSC 210",
+        "completed": true,
+        "deadline": "Oct 30",
+        "platform": "Github"
+    },
+    {
+        "name": "Research Proposal",
+        "course": "COGS 200",
+        "completed": false,
+        "deadline": "November 5",
+        "platform": "Canvas"
+    }
+]}
